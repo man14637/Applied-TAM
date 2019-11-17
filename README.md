@@ -1,5 +1,5 @@
 # Applied-TAM
-This Repository is my scripts to make TAM work for Insurance Brokers.
+These rports, scripts, GUI tools codes help an Insurance Broker to manage their TAM database 
 
 Reports Folder:
 
